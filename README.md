@@ -10,4 +10,20 @@ Age:
 
 Nationality: Slovenian
 
-Food: Sushi
+Food: Sushi   
+
+
+Name: 
+
+Shaqayeq
+
+Age:
+
+31
+
+Nationality: Iranian
+
+Food: Pizza 
+
+
+
